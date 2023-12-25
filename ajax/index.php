@@ -19,6 +19,14 @@
 
     <script>
         // ajax here
+        $.ajax({
+            type: "POST",
+            url: "comment_traitement.php",
+            data: {test: "ok"},
+            success: function (response) {
+                console.log(response);
+            }
+        })
     </script>
 </body>
 </html>
