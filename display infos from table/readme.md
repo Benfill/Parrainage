@@ -35,3 +35,5 @@ Remarques supplémentaires :
 -   Utilisez des bonnes pratiques de codage, notamment la séparation des préoccupations entre le HTML, le PHP et le code SQL.
 -   Commentez votre code de manière appropriée pour expliquer le fonctionnement de chaque section.
 -   Soumettez votre travail avec tous les fichiers nécessaires, y compris les fichiers modifiés (`getData.php`, `db.php`, `index.html`) et tout fichier SQL nécessaire pour créer la table.
+
+#link:  https://www.youtube.com/watch?v=0YLJ0uO6n8I
