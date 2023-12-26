@@ -6,6 +6,21 @@
     <title>Document</title>
 </head>
 <body>
-    
+<table>
+    <thead>
+    <tr>
+        <th>Email</th>
+        <th>Username</th>
+    </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>Username</td>
+            <td>email</td>
+        </tr>
+
+    </tbody>
+</table>
 </body>
 </html>
