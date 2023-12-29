@@ -1,3 +1,5 @@
 <?php
-//db connection
-$db = mysqli_connect("localhost", "root", "", "ADD DATABASE NAME");
+//db connection, uncomment it and change db name
+
+
+// $db = mysqli_connect("localhost", "root", "", "ADD DATABASE NAME");
