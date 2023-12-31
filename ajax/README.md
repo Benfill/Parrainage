@@ -1,12 +1,12 @@
-README - Tâche jQuery AJAX PHP
+## README - Tâche jQuery AJAX PHP
 ==============================
 
-Objectif de la Tâche
+## Objectif de la Tâche
 --------------------
 
 L'objectif de cette tâche est d'implémenter une fonctionnalité permettant d'envoyer des messages à un serveur en utilisant jQuery AJAX et PHP. Une fois le message envoyé, il devrait apparaître dans la section des messages sans recharger la page.
 
-Instructions
+## Instructions
 ------------
 
 1.  Structure HTML :
@@ -32,7 +32,7 @@ Instructions
 
     -   Ajoutez du style CSS pour rendre l'interface plus conviviale si nécessaire.
 
-Comment Commencer
+## Comment Commencer
 -----------------
 
 1.  Clonez ce référentiel dans votre environnement de développement.
@@ -41,7 +41,7 @@ Comment Commencer
 4.  Créez un fichier PHP pour traiter les demandes AJAX.
 5.  Testez en entrant des messages et en vérifiant s'ils apparaissent dans la section des messages.
 
-Ressources Utiles
+## Ressources Utiles
 -----------------
 
 -   Documentation jQuery AJAX
@@ -49,3 +49,6 @@ Ressources Utiles
 https://www.youtube.com/watch?v=pELGoSKnTRs
 
 Bonne chance dans votre implémentation!
+
+## DeadLine
+02/01/2024

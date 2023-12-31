@@ -1,8 +1,9 @@
-<?php 
-    include "crud_traitement.php";
+<?php
+include "crud_traitement.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +24,7 @@
         }
     </style>
 </head>
+
 <body class="bg-gray-100 p-4">
 
     <div class="max-w-2xl mx-auto bg-white p-8 rounded shadow">
@@ -111,7 +113,5 @@
         }
     </script>
 </body>
+
 </html>
-
-
-
